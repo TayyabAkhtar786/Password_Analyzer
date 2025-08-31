@@ -35,10 +35,10 @@ Choose an option:
 3) Exit
 
 Enter your password: MyPassword123!
-Strength: Strong
+-Strength: Strong
 
 Generated Password: 9$FwP@lRz!2b
-Encrypted Password (SHA-256): e3afed0047b08059d0fada10f400c1e5...
+-Encrypted Password (SHA-256): e3afed0047b08059d0fada10f400c1e5...
 
 
 
