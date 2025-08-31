@@ -25,7 +25,7 @@ The tool also flags common weak passwords to raise awareness of unsafe practices
 
 ### Run the tool
 bash
-git clone https://github.com/YOUR_USERNAME/cipherlock.git
+git clone https://github.com/tayyabakhtar786/Password_Analyzer.git
 cd cipherlock
 python3 cipherlock.py
 
