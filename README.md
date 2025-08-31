@@ -28,19 +28,6 @@ bash
 git clone https://github.com/tayyabakhtar786/Password_Analyzer.git
 cd cipherlock
 python3 cipherlock.py
-'''
-   _____ _       _               _            _     
-  / ____(_)     | |             | |          | |    
- | |     _ _ __ | |__   ___ _ __| | ___   ___| | __ 
- | |    | | '_ \| '_ \ / _ \ '__| |/ _ \ / __| |/ / 
- | |____| | |_) | | | |  __/ |  | | (_) | (__|   <  
-  \_____|_| .__/|_| |_|\___|_|  |_|\___/ \___|_|\_\ 
-          | |                                       
-          |_|                                       
-'''
-                CipherLock - Password Analyzer
-                Developed by: Tayyab Akhtar
-=========================================================================
 
 Choose an option:
 1) Enter your own password
